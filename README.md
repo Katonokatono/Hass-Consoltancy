@@ -16,6 +16,5 @@ The languages that were used in this project were:
 4.Matplotlib
 ## Support and contact details
 Contact Moringa School 
-
 Copyright (c) 2021 **Greg Katono**
   
